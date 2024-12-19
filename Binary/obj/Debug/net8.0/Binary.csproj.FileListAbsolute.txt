@@ -1,0 +1,71 @@
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Binary.exe
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Binary.deps.json
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Binary.runtimeconfig.json
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Binary.dll
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Binary.pdb
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfoInputs.cache
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfo.cs
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.csproj.CoreCompileInputs.cache
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.dll
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\refint\Binary.dll
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.pdb
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.genruntimeconfig.cache
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\ref\Binary.dll
+D:\programing\MyProjects\C# new\Binary\Binary\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.csproj.AssemblyReference.cache
+D:\programing\MyProjects\C# new\Binary\Binary\obj\Debug\net8.0\Binary.csproj.Up2Date
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Binary.exe
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Binary.deps.json
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Binary.runtimeconfig.json
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Binary.dll
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Binary.pdb
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.csproj.AssemblyReference.cache
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfoInputs.cache
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfo.cs
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.csproj.CoreCompileInputs.cache
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.csproj.Up2Date
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.dll
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\refint\Binary.dll
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.pdb
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\Binary.genruntimeconfig.cache
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\obj\Debug\net8.0\ref\Binary.dll
+C:\Users\Suliman\Desktop\رائد\Binary\Binary\bin\Debug\net8.0\files\levelsConfig.json
+D:\Binary\Binary\bin\Debug\net8.0\Binary.exe
+D:\Binary\Binary\bin\Debug\net8.0\files\levelsConfig.json
+D:\Binary\Binary\bin\Debug\net8.0\Binary.deps.json
+D:\Binary\Binary\bin\Debug\net8.0\Binary.runtimeconfig.json
+D:\Binary\Binary\bin\Debug\net8.0\Binary.dll
+D:\Binary\Binary\bin\Debug\net8.0\Binary.pdb
+D:\Binary\Binary\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Binary\Binary\obj\Debug\net8.0\Binary.csproj.AssemblyReference.cache
+D:\Binary\Binary\obj\Debug\net8.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfoInputs.cache
+D:\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfo.cs
+D:\Binary\Binary\obj\Debug\net8.0\Binary.csproj.CoreCompileInputs.cache
+D:\Binary\Binary\obj\Debug\net8.0\Binary.csproj.Up2Date
+D:\Binary\Binary\obj\Debug\net8.0\Binary.dll
+D:\Binary\Binary\obj\Debug\net8.0\refint\Binary.dll
+D:\Binary\Binary\obj\Debug\net8.0\Binary.pdb
+D:\Binary\Binary\obj\Debug\net8.0\Binary.genruntimeconfig.cache
+D:\Binary\Binary\obj\Debug\net8.0\ref\Binary.dll
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Binary.exe
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\files\levelsConfig.json
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Binary.deps.json
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Binary.runtimeconfig.json
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Binary.dll
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Binary.pdb
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.csproj.AssemblyReference.cache
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfoInputs.cache
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.AssemblyInfo.cs
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.csproj.CoreCompileInputs.cache
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.csproj.Up2Date
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.dll
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\refint\Binary.dll
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.pdb
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\Binary.genruntimeconfig.cache
+C:\Users\Suliman\Desktop\rrr\userPlay\Binary\Binary\obj\Debug\net8.0\ref\Binary.dll

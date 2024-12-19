@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\astar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\hc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\hc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\files\\levelsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\files\\levelsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\ucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\ucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\userplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\userplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|c:\\users\\suliman\\desktop\\rrr\\userplay\\binary\\binary\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E72EB2-99D5-44DA-BE07-10C9E41275B8}|Binary\\Binary.csproj|solutionrelative:binary\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "levelsConfig.json",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\files\\levelsConfig.json",
+              "RelativeDocumentMoniker": "Binary\\files\\levelsConfig.json",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\files\\levelsConfig.json",
+              "RelativeToolTip": "Binary\\files\\levelsConfig.json",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAcwJsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T19:26:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Loader.cs",
+              "RelativeDocumentMoniker": "Binary\\Loader.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Loader.cs",
+              "RelativeToolTip": "Binary\\Loader.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:40:36.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Binary\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\GameBoard.cs",
+              "RelativeToolTip": "Binary\\GameBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:18:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserPlay.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\UserPlay.cs",
+              "RelativeDocumentMoniker": "Binary\\UserPlay.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\UserPlay.cs",
+              "RelativeToolTip": "Binary\\UserPlay.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:29:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DFS.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\DFS.cs",
+              "RelativeDocumentMoniker": "Binary\\DFS.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\DFS.cs",
+              "RelativeToolTip": "Binary\\DFS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:17:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BFS.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\BFS.cs",
+              "RelativeDocumentMoniker": "Binary\\BFS.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\BFS.cs",
+              "RelativeToolTip": "Binary\\BFS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:17:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCS.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\UCS.cs",
+              "RelativeDocumentMoniker": "Binary\\UCS.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\UCS.cs",
+              "RelativeToolTip": "Binary\\UCS.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:17:56.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HC.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\HC.cs",
+              "RelativeDocumentMoniker": "Binary\\HC.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\HC.cs",
+              "RelativeToolTip": "Binary\\HC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:17:55.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AStar.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\AStar.cs",
+              "RelativeDocumentMoniker": "Binary\\AStar.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\AStar.cs",
+              "RelativeToolTip": "Binary\\AStar.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:17:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Game.cs",
+              "RelativeDocumentMoniker": "Binary\\Game.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Game.cs",
+              "RelativeToolTip": "Binary\\Game.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAiwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:50:27.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Program.cs",
+              "RelativeDocumentMoniker": "Binary\\Program.cs",
+              "ToolTip": "C:\\Users\\Suliman\\Desktop\\rrr\\userPlay\\Binary\\Binary\\Program.cs",
+              "RelativeToolTip": "Binary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:00:32.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

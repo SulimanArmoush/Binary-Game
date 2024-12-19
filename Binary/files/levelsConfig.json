@@ -1,0 +1,156 @@
+{
+
+  "levels": {
+
+    "level1": {
+      "rows": 3,
+      "cols": 1,
+      "board": [
+        [ "Stone" ],
+        [ "Dark" ],
+        [ "Light" ]
+      ],
+      "stoneValues": [
+        [ 1 ],
+        [ 0 ],
+        [ 0 ]
+      ]
+    },
+
+    "level2": {
+      "rows": 2,
+      "cols": 2,
+      "board": [
+        [ "Dark", "Stone" ],
+        [ "Light", "Dark" ]
+      ],
+      "stoneValues": [
+        [ 0, 2 ],
+        [ 0, 0 ]
+      ]
+    },
+
+    "level3": {
+      "rows": 2,
+      "cols": 3,
+      "board": [
+        [ "Dark", "Stone", "Dark" ],
+        [ "Light", "Dark", "Light" ]
+      ],
+      "stoneValues": [
+        [ 0, 3, 0 ],
+        [ 0, 0, 0 ]
+      ]
+    },
+
+    "level4": {
+      "rows": 3,
+      "cols": 3,
+      "board": [
+        [ "Empty", "Light", "Empty" ],
+        [ "Light", "Stone", "Light" ],
+        [ "Empty", "Light", "Empty" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0 ],
+        [ 0, 2, 0 ],
+        [ 0, 0, 0 ]
+      ]
+    },
+
+    "level5": {
+      "rows": 3,
+      "cols": 3,
+      "board": [
+        [ "Light", "Light", "Light" ],
+        [ "Dark", "Stone", "Dark" ],
+        [ "Light", "Light", "Light" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0 ],
+        [ 0, 3, 0 ],
+        [ 0, 0, 0 ]
+      ]
+    },
+
+    "level6": {
+      "rows": 2,
+      "cols": 3,
+      "board": [
+        [ "Stone", "Dark", "Stone" ],
+        [ "Light", "Dark", "Light" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0 ],
+        [ 0, 0, 0 ]
+      ]
+    },
+
+    "level7": {
+      "rows": 3,
+      "cols": 4,
+      "board": [
+        [ "Dark", "Stone", "Dark", "Empty" ],
+        [ "Light", "Dark", "Dark", "Light" ],
+        [ "Empty", "Empty", "Dark", "Stone" ]
+      ],
+      "stoneValues": [
+        [ 0, 3, 0, 0 ],
+        [ 0, 0, 0, 0 ],
+        [ 0, 0, 0, 2 ]
+      ]
+    },
+
+    "level8": {
+      "rows": 4,
+      "cols": 3,
+      "board": [
+        [ "Light", "Dark", "Light" ],
+        [ "Dark", "Stone", "Dark" ],
+        [ "Dark", "Stone", "Dark" ],
+        [ "Dark", "Light", "Dark" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0 ],
+        [ 0, 3, 0 ],
+        [ 0, 2, 0 ],
+        [ 0, 0, 0 ]
+      ]
+    },
+
+    "level9": {
+      "rows": 3,
+      "cols": 5,
+      "board": [
+        [ "Dark", "Dark", "Dark", "Empty", "Empty" ],
+        [ "Light", "Stone", "Dark", "Stone", "Dark" ],
+        [ "Empty", "Empty", "Dark", "Dark", "Dark" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0, 0, 0 ],
+        [ 0, 2, 0, 3, 0 ],
+        [ 0, 0, 0, 0, 0 ]
+      ]
+    },
+
+    "level10": {
+      "rows": 4,
+      "cols": 4,
+      "board": [
+        [ "Light", "Dark", "Dark", "Dark" ],
+        [ "Dark", "Stone", "Stone", "Dark" ],
+        [ "Dark", "Stone", "Stone", "Dark" ],
+        [ "Dark", "Dark", "Dark", "Light" ]
+      ],
+      "stoneValues": [
+        [ 0, 0, 0, 0 ],
+        [ 0, 1, 2, 0 ],
+        [ 0, 2, 1, 0 ],
+        [ 0, 0, 0, 0 ]
+      ]
+    }
+
+  }
+
+}
+  
